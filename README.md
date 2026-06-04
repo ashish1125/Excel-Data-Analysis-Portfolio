@@ -33,20 +33,6 @@ Each project follows a complete data analysis workflow:
 
 ---
 
-## 📂 Projects
-
-### 🚴 Bike Sales Dashboard
-
-- Customer Demographics Analysis
-- Income Analysis
-- Age Group Analysis
-- Commute Distance Analysis
-- Interactive Dashboard Development
-
-📌 More projects will be added as I continue my data analytics journey.
-
----
-
 ## 📈 Tools & Technologies
 
 - Microsoft Excel
@@ -54,16 +40,6 @@ Each project follows a complete data analysis workflow:
 - Pivot Charts
 - Slicers
 - Dashboard Design Techniques
-
----
-
-## 🌱 Currently Learning
-
-- SQL
-- Power BI
-- Python
-- Statistics
-- Data Analytics
 
 ---
 
