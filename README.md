@@ -51,6 +51,6 @@ To build a strong portfolio of real-world data analytics projects while continuo
 
 ## 📬 Connect With Me
 
-💼 LinkedIn: [Your LinkedIn Profile]
+💼 LinkedIn: www.linkedin.com/in/ashish-makadiya-7a1398240
 
-💻 GitHub: [Your GitHub Profile]
+💻 GitHub: https://github.com/ashish1125
